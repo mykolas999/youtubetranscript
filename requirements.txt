@@ -1,0 +1,6 @@
+# Required for --backend api (default)
+openai>=1.0.0
+
+# Required for --backend local
+# openai-whisper>=20231117
+# torch>=2.0.0  # pulled in by openai-whisper
